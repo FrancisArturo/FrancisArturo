@@ -1,5 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70707&center=true&vCenter=true&width=435&lines=Hola 👋;Bienvenido+a+mi+perfil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70707&center=true&vCenter=true&width=435&lines=Hola+👋;Bienvenido+a+mi+perfil)](https://git.io/typing-svg)
+
 
 <!--
 **FrancisArturo/FrancisArturo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
