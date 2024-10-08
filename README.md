@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70707&center=true&vCenter=true&width=435&lines=Hola%2C+Bienvenidx+a+mi+perfil+👋;Soy+Francis+Arturo;Desarrollador+Web)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70707&center=true&vCenter=true&width=435&lines=Hola%2C+Bienvenidx+a+mi+perfil+👋;Soy+Francis+Arturo;Desarrollador+Web)](https://git.io/typing-svg)
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
