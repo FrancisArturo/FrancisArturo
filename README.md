@@ -1,10 +1,12 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70707&center=true&vCenter=true&width=435&lines=Hola+👋;Soy+Francis+Arturo;Bienvenidx+a+mi+perfil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70707&center=true&vCenter=true&width=435&lines=Hola%2C+Bienvenidx+a+mi+perfil+👋;Soy+Francis+Arturo;Desarrollador+Web)](https://git.io/typing-svg)
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
 💡 &nbsp;Me interesa aprender nuevas tecnologías y ser capaz de utilizarlas para desarrollar soluciones por medio de software.\
+🔭 &nbsp; \
 🎓 &nbsp;Actualmente me encuentro aprediendo sobre Next.js.\
+⚡ &nbsp;Mi tiempo libre lo destino principalmente a la lectura, la música y los videojuegos. Me considero un aficionado al cine y la literatura de ciencia ficción. \
 ✉️ &nbsp;Para contactarme podés mandarme un email a francisarturoalcaldesocole@gmail.com. Trataré de contestarte a la brevedad.
 
 
